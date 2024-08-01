@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="update_button">update button</string>
+    <string name="delete_button">delete button</string>
+</resources>
